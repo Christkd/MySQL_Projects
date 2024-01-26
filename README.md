@@ -1,6 +1,6 @@
 MySQL Projects
 
-*This is a compilation of MySQLWorkbench 9projects I created, it is of personal use only, to showcase and track my progress as an independent developer.*
+*This is a compilation of MySQLWorkbench projects I created, it is of personal use only, to showcase and track my progress as an independent developer.*
 
 *Below are screenshots of a few MySQL tables I created and practiced in making, to better my knowledge.*
 
